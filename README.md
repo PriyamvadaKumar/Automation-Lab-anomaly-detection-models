@@ -1,7 +1,6 @@
 # Automation-Lab-anomaly-detection-models
 
-Created machine learning models including Isolation Forest ,Local Outlier Factor and one class SVM
-to detect anomalies in the location, motor current and gripper force of KX-2 laboratory robot arm 
+Used isolation forest to detect anomalies in the location, motor current and gripper force of KX-2 laboratory robot arm 
 and designed automated closed loop pipelines to take corrective actions and alert scientists/lab technicians 
 
 # Methodolgy : Location, Motor Current and Gripper Force
